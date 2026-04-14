@@ -1,0 +1,9 @@
+{
+  "name": "HealthTech",
+  "description": "A voice-first, offline-capable HealthTech platform designed for rural healthcare, featuring AI symptom checking and telemedicine.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ],
+  "majorCapabilities": []
+}
